@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #64b9e6;
+    font-family: Helvetica,"游ゴシック","Yu Gothic";
+    color: #7b7b7b;
+    width: 100%;
+}
+
+h1,ul,li {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #fff;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.profile {
+   text-align: center;
+   width: 80%;
+   background-color: #fff;
+   margin: 0 auto;
+   border-radius: 8px;
+   padding-bottom: 40px;
+}
+
+img {
+    width: 30%;
+}
+
+ul {
+    list-style: none;
+}
+
+.list_name {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #d6eff9;
+    color: #64b9e6;
+    font-size: 18px;
+}
+
+.list_content {
+    padding: 16px 0;
+}
